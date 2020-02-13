@@ -281,7 +281,6 @@
 - DOMAIN-KEYWORD,duomeng,AdBlock
 - DOMAIN-KEYWORD,dwtrack,AdBlock
 - DOMAIN-KEYWORD,fenxi,AdBlock
-- DOMAIN-KEYWORD,googleads,AdBlock
 - DOMAIN-KEYWORD,guanggao,AdBlock
 - DOMAIN-KEYWORD,inmobi,AdBlock
 - DOMAIN-KEYWORD,lianmeng,AdBlock
@@ -915,7 +914,6 @@
 - DOMAIN-SUFFIX,ad.bitmedia.io,AdBlock
 - DOMAIN-SUFFIX,ad.bjmama.net,AdBlock
 - DOMAIN-SUFFIX,ad.cacafly.com,AdBlock
-- DOMAIN-SUFFIX,ad.caiyunapp.com,AdBlock
 - DOMAIN-SUFFIX,ad.cctv.com,AdBlock
 - DOMAIN-SUFFIX,ad.cooks.com,AdBlock
 - DOMAIN-SUFFIX,ad.crichd.in,AdBlock
@@ -3733,7 +3731,6 @@
 - DOMAIN-SUFFIX,global.msads.net,AdBlock
 - DOMAIN-SUFFIX,global.ymtracking.com,AdBlock
 - DOMAIN-SUFFIX,gm682.com,AdBlock
-- DOMAIN-SUFFIX,gma.alicdn.com,AdBlock
 - DOMAIN-SUFFIX,gma1.com,AdBlock
 - DOMAIN-SUFFIX,gmota.g188.net,AdBlock
 - DOMAIN-SUFFIX,gmtdmp.mookie1.com,AdBlock
@@ -4755,7 +4752,6 @@
 - DOMAIN-SUFFIX,lashou1000.com,AdBlock
 - DOMAIN-SUFFIX,lb.gtimg.com,AdBlock
 - DOMAIN-SUFFIX,lb.statsevent.com,AdBlock
-- DOMAIN-SUFFIX,lbs.map.qq.com,AdBlock
 - DOMAIN-SUFFIX,lbstatic-a.akamaihd.net,AdBlock
 - DOMAIN-SUFFIX,lbszb.tongbu.com,AdBlock
 - DOMAIN-SUFFIX,lc.jiathis.com,AdBlock
@@ -7429,7 +7425,6 @@
 - DOMAIN-SUFFIX,updatecenter.qq.com,AdBlock
 - DOMAIN-SUFFIX,updatepage.kuwo.cn,AdBlock
 - DOMAIN-SUFFIX,updates-s3.binaryage.com,AdBlock
-- DOMAIN-SUFFIX,up-hl.3g.qq.com,AdBlock
 - DOMAIN-SUFFIX,uplze.code.weddingeeos.com,AdBlock
 - DOMAIN-SUFFIX,ups.ksmobile.net,AdBlock
 - DOMAIN-SUFFIX,upush.res.meizu.com,AdBlock
@@ -9224,6 +9219,7 @@
 - DOMAIN-SUFFIX,westca.com,Proxy
 - DOMAIN-SUFFIX,westpoint.edu,Proxy
 - DOMAIN-SUFFIX,whatbrowser.org,Proxy
+- DOMAIN-SUFFIX,wikiwand.com,Proxy
 - DOMAIN-SUFFIX,wikileaks.info,Proxy
 - DOMAIN-SUFFIX,wikileaks.org,Proxy
 - DOMAIN-SUFFIX,wikileaks-forum.com,Proxy
@@ -9742,7 +9738,7 @@
 - DOMAIN-SUFFIX,totheglory.im,DIRECT
 
 # > Accelerate direct sites
-- DOMAIN-KEYWORD,announce,DIRECT 
+- DOMAIN-KEYWORD,announce,DIRECT
 - DOMAIN-KEYWORD,torrent,DIRECT
 - DOMAIN-KEYWORD,tracker,DIRECT
 - DOMAIN-SUFFIX,smtp,DIRECT
